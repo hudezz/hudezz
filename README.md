@@ -9,8 +9,16 @@
 - 📫 Reach out to me at: <strong>hudhaifaabdikadir090@gmail.com</strong>
 </p>
 
+<!-- Experience Section -->
+<h3 align="left">Experience & Focus:</h3>
+<p align="left">
+- 🧪 <strong>Software Testing & QA:</strong> Hands-on experience ensuring system reliability, performance optimization, and rigorous application testing.
+- 🏗️ <strong>System Automation:</strong> Focused on automating complex business processes, handling high-volume data streams, and building compliant backend software workflows.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.instagram.com/_hu.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hu.de" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/47301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="47301" height="30" width="40" /></a>
 </p>
 
